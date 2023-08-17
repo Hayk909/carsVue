@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "model": "c class",
+    "name": "mercedes",
+    "owner": "narek",
+    "image": "/images/mercedes.png",
+    "year": 2020,
+    "phone": "+374 43 73-77-05"
+  },
+  {
+    "id": 2,
+    "model": "e60",
+    "name": "bmw",
+    "owner": "hayk",
+    "image": "/images/bmw.png",
+    "year": 2019,
+    "phone": "+374 33 33-91-19"
+  },
+  {
+    "id": 3,
+    "model": "rav4",
+    "name": "toyota",
+    "owner": "zaven",
+    "image": "/images/rav4.png",
+    "year": 2019,
+    "phone": "+374 77 49-49-88"
+  },
+  {
+    "id": 4,
+    "model": "g63",
+    "name": "gelendvagen",
+    "owner": "narek",
+    "image": "/images/g63.png",
+    "year": 2020,
+    "phone": "+374 43 20 34 10"
+  }
+
+]
